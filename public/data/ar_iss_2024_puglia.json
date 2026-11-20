@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "edition": "puglia_amr_atlas",
+  "source_id": "ar_iss_2024_puglia",
+  "period": 2024,
+  "geography": "Puglia",
+  "scope": "isolati da sangue e liquor; sorveglianza AR-ISS",
+  "coverage": {
+    "value_percent": 58.7,
+    "denominator": "giornate di degenza per ricoveri ordinari per acuti; SDO dimessi 2023",
+    "limitations": "non corregge per gravità; considera i laboratori che hanno inviato emocolture e/o liquor; la Puglia partecipa con la propria rete regionale (referenti R. Prato, M. Chironna, D. Martinelli) e 13 laboratori referenti elencati nel 2024 (Bari, Foggia, Taranto, Lecce, Andria, Barletta, Acquaviva delle Fonti, San Giovanni Rotondo, Manduria, Martina Franca, Castellaneta); serie con dati dal 2015"
+  },
+  "indicators": [
+    {
+      "code": "MRSA",
+      "pathogen": "Staphylococcus aureus",
+      "resistance": "meticillina",
+      "isolates": 775,
+      "resistant": 201,
+      "percent": 25.9,
+      "ci95": "22.9-29.2"
+    },
+    {
+      "code": "VRE-faecium",
+      "pathogen": "Enterococcus faecium",
+      "resistance": "vancomicina",
+      "isolates": 326,
+      "resistant": 92,
+      "percent": 28.2,
+      "ci95": "23.4-33.4"
+    },
+    {
+      "code": "CREC",
+      "pathogen": "Escherichia coli",
+      "resistance": "cefalosporine di terza generazione",
+      "isolates": 1093,
+      "resistant": 403,
+      "percent": 36.9,
+      "ci95": "34.0-39.8"
+    },
+    {
+      "code": "CRKP",
+      "pathogen": "Klebsiella pneumoniae",
+      "resistance": "carbapenemi",
+      "isolates": 777,
+      "resistant": 319,
+      "percent": 41.1,
+      "ci95": "37.6-44.6"
+    },
+    {
+      "code": "CRPA",
+      "pathogen": "Pseudomonas aeruginosa",
+      "resistance": "carbapenemi",
+      "isolates": 439,
+      "resistant": 77,
+      "percent": 17.5,
+      "ci95": "14.1-21.4"
+    },
+    {
+      "code": "CRAS",
+      "pathogen": "Acinetobacter species",
+      "resistance": "carbapenemi",
+      "isolates": 436,
+      "resistant": 309,
+      "percent": 70.9,
+      "ci95": "66.4-75.1"
+    }
+  ],
+  "trend_note": "Serie 2015-2024 nell'Appendice A: MRSA 31,3% (2016) -> 35,6% (2020) -> 25,9% (2024); VRE-faecium 0/54 (2016) -> 11,0% (2020) -> 28,2% (2024); CREC 37,5% (2016) -> 46,9% (2018) -> 36,9% (2024); CRKP 68,9% (2016) -> 57,3% (2021) -> 41,1% (2024); CRPA 43,1% (2016) -> 17,5% (2024); CRAS 83,8% (2016) -> 94,8% (2021) -> 70,9% (2024). Numerosità cresciute (da 34-106 isolati nel 2016 a 326-1.093 nel 2024): le variazioni riflettono anche l'allargamento della rete.",
+  "license": "CC BY 4.0 (Note legali ISS, valide anche per EpiCentro: https://www.iss.it/contatti ; https://www.epicentro.iss.it/chi-siamo/disclaimer)",
+  "source": {
+    "title": "AR-ISS: sorveglianza nazionale dell Antibiotico-Resistenza. Dati 2024",
+    "report": "RIS-5/2025",
+    "table": "Tabella 1 (copertura, p. 12) e Appendice A, Regione Puglia (p. 53 a stampa, p. 61 del PDF); referenti dei laboratori p. 2",
+    "url": "https://www.epicentro.iss.it/antibiotico-resistenza/ar-iss/RIS-5_2025.pdf",
+    "acquired_at": "2026-11-20",
+    "sha256": "50174DC846E19C6EAD2EA4D55982FC098487251A5EDAB8D484D6101B31482F0F"
+  }
+}
