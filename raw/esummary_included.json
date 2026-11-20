@@ -1,0 +1,6092 @@
+{
+ "result": {
+  "20233317": {
+   "uid": "20233317",
+   "pubdate": "2010 Jul",
+   "epubdate": "2010 Mar 9",
+   "source": "Oral Dis",
+   "authors": [
+    {
+     "name": "Buonavoglia A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Latronico F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Greco MF",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "D'Abramo M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Marinaro M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Mangini F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Corrente M",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Corrente M",
+   "title": "Methicillin-resistant staphylococci carriage in the oral cavity: a study conducted in Bari (Italy).",
+   "sorttitle": "methicillin resistant staphylococci carriage in the oral cavity a study conducted in bari italy",
+   "volume": "16",
+   "issue": "5",
+   "pages": "465-8",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "9508565",
+   "issn": "1354-523X",
+   "essn": "1601-0825",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "256",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "20233317"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.1111/j.1601-0825.2010.01657.x"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "ODI1657"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "entrez",
+     "date": "2010/03/18 06:00"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2010/03/18 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2010/11/03 06:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": "",
+   "fulljournalname": "Oral diseases",
+   "elocationid": "doi: 10.1111/j.1601-0825.2010.01657.x",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2010/07/01 00:00",
+   "sortfirstauthor": "Buonavoglia A",
+   "vernaculartitle": ""
+  },
+  "22825382": {
+   "uid": "22825382",
+   "pubdate": "2012 Jul-Aug",
+   "epubdate": "",
+   "source": "Recenti Prog Med",
+   "authors": [
+    {
+     "name": "Buccoliero G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Morelli E",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Romanelli C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Lonero G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pisconti S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Resta F",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Resta F",
+   "title": "[Susceptibility rate to tigecycline and antibiotic-resistance among Klebsiella pneumoniae strains isolated in Intensive Care Unit].",
+   "sorttitle": "susceptibility rate to tigecycline and antibiotic resistance among klebsiella pneumoniae strains isolated in intensive care unit",
+   "volume": "103",
+   "issue": "7-8",
+   "pages": "275-8",
+   "lang": [
+    "ita"
+   ],
+   "nlmuniqueid": "0401271",
+   "issn": "0034-1193",
+   "essn": "",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "4",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "22825382"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.1701/1127.12430"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "entrez",
+     "date": "2012/07/25 06:00"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2012/07/25 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2012/10/17 06:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": "",
+   "fulljournalname": "Recenti progressi in medicina",
+   "elocationid": "doi: 10.1701/1127.12430",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2012/07/01 00:00",
+   "sortfirstauthor": "Buccoliero G",
+   "vernaculartitle": "Suscettibilità alla tigeciclina e antibiotico-resistenza in ceppi di Klebsiella pneumoniae isolati in Unità di Terapia Intensiva."
+  },
+  "23263659": {
+   "uid": "23263659",
+   "pubdate": "2012 Dec 24",
+   "epubdate": "2012 Dec 24",
+   "source": "Int J Environ Res Public Health",
+   "authors": [
+    {
+     "name": "Cinquepalmi V",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Monno R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Fumarola L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Ventrella G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Calia C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Greco MF",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Vito Dd",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Soleo L",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Soleo L",
+   "title": "Environmental contamination by dog&#8217;s faeces: a public health problem?",
+   "sorttitle": "environmental contamination by dog 8217 s faeces a public health problem",
+   "volume": "10",
+   "issue": "1",
+   "pages": "72-84",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101238455",
+   "issn": "1661-7827",
+   "essn": "1660-4601",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "23263659"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC3564131"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC3564131;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.3390/ijerph10010072"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "ijerph10010072"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2012/09/19 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2012/12/14 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2012/12/17 00:00"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2012/12/25 06:00"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2012/12/25 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2013/06/08 06:00"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2013/01/01 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 53,
+   "fulljournalname": "International journal of environmental research and public health",
+   "elocationid": "doi: 10.3390/ijerph10010072",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2012/12/24 00:00",
+   "sortfirstauthor": "Cinquepalmi V",
+   "vernaculartitle": ""
+  },
+  "23924880": {
+   "uid": "23924880",
+   "pubdate": "2013 Aug 6",
+   "epubdate": "2013 Aug 6",
+   "source": "Int J Environ Res Public Health",
+   "authors": [
+    {
+     "name": "Camarda A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pugliese N",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pupillo A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Oliva M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Circella E",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Dionisi AM",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Ricci A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Legretto M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Caroli A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pazzani C",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Pazzani C",
+   "title": "Resistance genes, phage types and pulsed field gel electrophoresis pulsotypes in Salmonella enterica strains from laying hen farms in southern Italy.",
+   "sorttitle": "resistance genes phage types and pulsed field gel electrophoresis pulsotypes in salmonella enterica strains from laying hen farms in southern italy",
+   "volume": "10",
+   "issue": "8",
+   "pages": "3347-62",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101238455",
+   "issn": "1661-7827",
+   "essn": "1660-4601",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "23924880"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC3774442"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC3774442;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.3390/ijerph10083347"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "ijerph10083347"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2013/05/13 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2013/07/11 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2013/07/29 00:00"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2013/08/09 06:00"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2013/08/09 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2014/02/04 06:00"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2013/08/01 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 57,
+   "fulljournalname": "International journal of environmental research and public health",
+   "elocationid": "doi: 10.3390/ijerph10083347",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2013/08/06 00:00",
+   "sortfirstauthor": "Camarda A",
+   "vernaculartitle": ""
+  },
+  "24215706": {
+   "uid": "24215706",
+   "pubdate": "2013 Nov",
+   "epubdate": "",
+   "source": "J Food Prot",
+   "authors": [
+    {
+     "name": "Dambrosio A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Quaglia NC",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Saracino M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Malcangi M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Montagna C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Quinto M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Lorusso V",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Normanno G",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Normanno G",
+   "title": "Microbiological quality of Burrata cheese produced in Puglia region: southern Italy.",
+   "sorttitle": "microbiological quality of burrata cheese produced in puglia region southern italy",
+   "volume": "76",
+   "issue": "11",
+   "pages": "1981-4",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "7703944",
+   "issn": "0362-028X",
+   "essn": "1944-9097",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "4",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "24215706"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.4315/0362-028X.JFP-13-067"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "S0362-028X(23)05426-1"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "entrez",
+     "date": "2013/11/13 06:00"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2013/11/13 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2014/03/22 06:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": "",
+   "fulljournalname": "Journal of food protection",
+   "elocationid": "doi: 10.4315/0362-028X.JFP-13-067",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2013/11/01 00:00",
+   "sortfirstauthor": "Dambrosio A",
+   "vernaculartitle": ""
+  },
+  "26980505": {
+   "uid": "26980505",
+   "pubdate": "2016 Jan-Feb",
+   "epubdate": "",
+   "source": "Ann Ig",
+   "authors": [
+    {
+     "name": "Caggiano G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Dambrosio A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Ioanna F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Balbino S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Barbuti G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "De Giglio O",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Diella G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Lovero G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Rutigliano S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Scarafile G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Baldassarre A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Vimercati L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Musti M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Montagna MT",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Montagna MT",
+   "title": "Prevalence and characterization of methicillin-resistant Staphylococcus aureus isolates in food industry workers.",
+   "sorttitle": "prevalence and characterization of methicillin resistant staphylococcus aureus isolates in food industry workers",
+   "volume": "28",
+   "issue": "1",
+   "pages": "8-14",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "9002865",
+   "issn": "1120-9135",
+   "essn": "",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "4",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "26980505"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.7416/ai.2016.2080"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "entrez",
+     "date": "2016/03/17 06:00"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2016/03/17 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2017/11/29 06:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": "",
+   "fulljournalname": "Annali di igiene : medicina preventiva e di comunita",
+   "elocationid": "doi: 10.7416/ai.2016.2080",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2016/01/01 00:00",
+   "sortfirstauthor": "Caggiano G",
+   "vernaculartitle": ""
+  },
+  "28078872": {
+   "uid": "28078872",
+   "pubdate": "2016 Oct-Dec",
+   "epubdate": "",
+   "source": "J Biol Regul Homeost Agents",
+   "authors": [
+    {
+     "name": "Mirgaldi R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Ballini A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Dionisi AM",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Luzzi I",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Dipalma G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Inchingolo F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "De Vito D",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "De Vito D",
+   "title": "Molecular characterization and antibiotic resistance of salmonella serovars isolated in the Apulia region of Italy.",
+   "sorttitle": "molecular characterization and antibiotic resistance of salmonella serovars isolated in the apulia region of italy",
+   "volume": "30",
+   "issue": "4",
+   "pages": "1179-1186",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "8809253",
+   "issn": "0393-974X",
+   "essn": "",
+   "pubtype": [
+    "Letter"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "4",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "28078872"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "34"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "entrez",
+     "date": "2017/01/13 06:00"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2017/01/13 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2017/03/17 06:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": "",
+   "fulljournalname": "Journal of biological regulators and homeostatic agents",
+   "elocationid": "",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2016/10/01 00:00",
+   "sortfirstauthor": "Mirgaldi R",
+   "vernaculartitle": ""
+  },
+  "27525808": {
+   "uid": "27525808",
+   "pubdate": "2017 Jun",
+   "epubdate": "2016 Aug 15",
+   "source": "Microb Drug Resist",
+   "authors": [
+    {
+     "name": "Laudisio A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Marinosci F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Gemma A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Bartoli IR",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Montenegro N",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Incalzi RA",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Incalzi RA",
+   "title": "The Burden of Comorbidity Is Associated with Antibiotic Resistance Among Institutionalized Elderly with Urinary Infection: A Retrospective Cohort Study in a Single Italian Nursing Home Between 2009 and 2014.",
+   "sorttitle": "burden of comorbidity is associated with antibiotic resistance among institutionalized elderly with urinary infection a retrospective cohort study in a single italian nursing home between 2009 and 2014",
+   "volume": "23",
+   "issue": "4",
+   "pages": "500-506",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "9508567",
+   "issn": "1076-6294",
+   "essn": "1931-8448",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "256",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "27525808"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.1089/mdr.2016.0016"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "pubmed",
+     "date": "2016/08/16 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2018/03/20 06:00"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2016/08/16 06:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": "",
+   "fulljournalname": "Microbial drug resistance (Larchmont, N.Y.)",
+   "elocationid": "doi: 10.1089/mdr.2016.0016",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2017/06/01 00:00",
+   "sortfirstauthor": "Laudisio A",
+   "vernaculartitle": ""
+  },
+  "28672173": {
+   "uid": "28672173",
+   "pubdate": "2017 Sep 18",
+   "epubdate": "2017 Jun 28",
+   "source": "Int J Food Microbiol",
+   "authors": [
+    {
+     "name": "Nobili G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Franconieri I",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "La Bella G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Basanisi MG",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "La Salandra G",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "La Salandra G",
+   "title": "Prevalence of Verocytotoxigenic Escherichia coli strains isolated from raw beef in southern Italy.",
+   "sorttitle": "prevalence of verocytotoxigenic escherichia coli strains isolated from raw beef in southern italy",
+   "volume": "257",
+   "issue": "",
+   "pages": "201-205",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "8412849",
+   "issn": "0168-1605",
+   "essn": "1879-3460",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "256",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "28672173"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.1016/j.ijfoodmicro.2017.06.022"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "S0168-1605(17)30290-8"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2017/02/16 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2017/06/21 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2017/06/22 00:00"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2017/07/04 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2017/12/12 06:00"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2017/07/04 06:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": "",
+   "fulljournalname": "International journal of food microbiology",
+   "elocationid": "doi: 10.1016/j.ijfoodmicro.2017.06.022",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2017/09/18 00:00",
+   "sortfirstauthor": "Nobili G",
+   "vernaculartitle": ""
+  },
+  "30882374": {
+   "uid": "30882374",
+   "pubdate": "2019 Mar 1",
+   "epubdate": "",
+   "source": "Infez Med",
+   "authors": [
+    {
+     "name": "Del Prete R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Ronga L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Addati G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Magrone R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Abbasciano A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Decimo M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Mosca A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Miragliotta G",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Miragliotta G",
+   "title": "Trends in Klebsiella pneumoniae strains isolated from the bloodstream in a teaching hospital in southern Italy.",
+   "sorttitle": "trends in klebsiella pneumoniae strains isolated from the bloodstream in a teaching hospital in southern italy",
+   "volume": "27",
+   "issue": "1",
+   "pages": "17-25",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "9613961",
+   "issn": "1124-9390",
+   "essn": "2532-8689",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "4",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "30882374"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "entrez",
+     "date": "2019/03/19 06:00"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2019/03/19 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2019/11/23 06:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": "",
+   "fulljournalname": "Le infezioni in medicina",
+   "elocationid": "",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2019/03/01 00:00",
+   "sortfirstauthor": "Del Prete R",
+   "vernaculartitle": ""
+  },
+  "31008110": {
+   "uid": "31008110",
+   "pubdate": "2019",
+   "epubdate": "2019 Mar 17",
+   "source": "Biomed Res Int",
+   "authors": [
+    {
+     "name": "Loconsole D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "De Robertis AL",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Mallamaci R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Sallustio A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Morea A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Prato R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Quarto M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Martinelli D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Chironna M",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Chironna M",
+   "title": "First Description of Macrolide-Resistant Mycoplasma pneumoniae in Adults with Community-Acquired Pneumonia in Italy.",
+   "sorttitle": "first description of macrolide resistant mycoplasma pneumoniae in adults with community acquired pneumonia in italy",
+   "volume": "2019",
+   "issue": "",
+   "pages": "7168949",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101600173",
+   "issn": "2314-6133",
+   "essn": "2314-6141",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "258",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "31008110"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC6441498"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC6441498;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.1155/2019/7168949"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2019/01/05 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2019/03/03 00:00"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2019/04/23 06:00"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2019/04/23 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2019/08/10 06:00"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2019/03/17 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 20,
+   "fulljournalname": "BioMed research international",
+   "elocationid": "doi: 10.1155/2019/7168949",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2019/03/17 00:00",
+   "sortfirstauthor": "Loconsole D",
+   "vernaculartitle": ""
+  },
+  "31914829": {
+   "uid": "31914829",
+   "pubdate": "2020 Feb",
+   "epubdate": "2020 Jan 14",
+   "source": "Expert Rev Anti Infect Ther",
+   "authors": [
+    {
+     "name": "Bonaldo G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Bianchi S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Ancona D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Procacci C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Natalini N",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Motola D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Vaccheri A",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Vaccheri A",
+   "title": "The prescription of antimicrobials by general practitioners: the differences between north and south Italian provinces.",
+   "sorttitle": "prescription of antimicrobials by general practitioners the differences between north and south italian provinces",
+   "volume": "18",
+   "issue": "2",
+   "pages": "165-170",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101181284",
+   "issn": "1478-7210",
+   "essn": "1744-8336",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "256",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "31914829"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.1080/14787210.2020.1713753"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "pubmed",
+     "date": "2020/01/10 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2021/02/05 06:00"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2020/01/10 06:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": "",
+   "fulljournalname": "Expert review of anti-infective therapy",
+   "elocationid": "doi: 10.1080/14787210.2020.1713753",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2020/02/01 00:00",
+   "sortfirstauthor": "Bonaldo G",
+   "vernaculartitle": ""
+  },
+  "32101078": {
+   "uid": "32101078",
+   "pubdate": "2020 Aug",
+   "epubdate": "2020 Feb 26",
+   "source": "Microb Drug Resist",
+   "authors": [
+    {
+     "name": "Palmitessa V",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Monno R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Panarese A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Cuppone R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Burattini O",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Marangi S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Curlo M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Fumarola L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Petrosillo A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Parisi A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Capozzi L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Bianco A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Lippolis A",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Lippolis A",
+   "title": "Evaluation of Antibiotic Resistance of Helicobacter pylori Strains Isolated in Bari, Southern Italy, in 2017-2018 by Phenotypic and Genotyping Methods.",
+   "sorttitle": "evaluation of antibiotic resistance of helicobacter pylori strains isolated in bari southern italy in 2017 2018 by phenotypic and genotyping methods",
+   "volume": "26",
+   "issue": "8",
+   "pages": "909-917",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "9508567",
+   "issn": "1076-6294",
+   "essn": "1931-8448",
+   "pubtype": [
+    "Journal Article",
+    "Observational Study"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "256",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "32101078"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.1089/mdr.2019.0262"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "pubmed",
+     "date": "2020/02/27 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2021/06/10 06:00"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2020/02/27 06:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": "",
+   "fulljournalname": "Microbial drug resistance (Larchmont, N.Y.)",
+   "elocationid": "doi: 10.1089/mdr.2019.0262",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2020/08/01 00:00",
+   "sortfirstauthor": "Palmitessa V",
+   "vernaculartitle": ""
+  },
+  "32487201": {
+   "uid": "32487201",
+   "pubdate": "2020 Jun 1",
+   "epubdate": "2020 Jun 1",
+   "source": "Ann Clin Microbiol Antimicrob",
+   "authors": [
+    {
+     "name": "Loconsole D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Accogli M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "De Robertis AL",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Capozzi L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Bianco A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Morea A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Mallamaci R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Quarto M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Parisi A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Chironna M",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Chironna M",
+   "title": "Emerging high-risk ST101 and ST307 carbapenem-resistant Klebsiella pneumoniae clones from bloodstream infections in Southern Italy.",
+   "sorttitle": "emerging high risk st101 and st307 carbapenem resistant klebsiella pneumoniae clones from bloodstream infections in southern italy",
+   "volume": "19",
+   "issue": "1",
+   "pages": "24",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101152152",
+   "issn": "",
+   "essn": "1476-0711",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "32487201"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC7266126"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC7266126;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.1186/s12941-020-00366-y"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "10.1186/s12941-020-00366-y"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2020/01/03 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2020/05/25 00:00"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2020/06/04 06:00"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2020/06/04 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2020/12/15 06:00"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2020/06/01 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 44,
+   "fulljournalname": "Annals of clinical microbiology and antimicrobials",
+   "elocationid": "doi: 10.1186/s12941-020-00366-y",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2020/06/01 00:00",
+   "sortfirstauthor": "Loconsole D",
+   "vernaculartitle": ""
+  },
+  "33096925": {
+   "uid": "33096925",
+   "pubdate": "2020 Oct 21",
+   "epubdate": "2020 Oct 21",
+   "source": "Antibiotics (Basel)",
+   "authors": [
+    {
+     "name": "Losurdo G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Giorgio F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pricci M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Girardi B",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Russo F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Riezzo G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Martulli M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Piazzolla M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Cocomazzi F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Abbruzzi F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Parente E",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Paolillo R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Mileti A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Iannone A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Principi M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Ierardi E",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Leo AD",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Leo AD",
+   "title": "Helicobacter pylori Primary and Secondary Genotypic Resistance to Clarithromycin and Levofloxacin Detection in Stools: A 4-Year Scenario in Southern Italy.",
+   "sorttitle": "helicobacter pylori primary and secondary genotypic resistance to clarithromycin and levofloxacin detection in stools a 4 year scenario in southern italy",
+   "volume": "9",
+   "issue": "10",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101637404",
+   "issn": "2079-6382",
+   "essn": "2079-6382",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "33096925"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC7589162"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC7589162;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.3390/antibiotics9100723"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "antibiotics9100723"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2020/10/07 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2020/10/16 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2020/10/19 00:00"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2020/10/24 01:01"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2020/10/25 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2020/10/25 06:01"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2020/10/21 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 28,
+   "fulljournalname": "Antibiotics (Basel, Switzerland)",
+   "elocationid": "doi: 10.3390/antibiotics9100723",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2020/10/21 00:00",
+   "sortfirstauthor": "Losurdo G",
+   "vernaculartitle": ""
+  },
+  "33078220": {
+   "uid": "33078220",
+   "pubdate": "2021 Apr",
+   "epubdate": "2020 Oct 20",
+   "source": "Eur J Clin Microbiol Infect Dis",
+   "authors": [
+    {
+     "name": "Angela A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Raffaele DP",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Federica R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Adriana M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Luigi S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Luigi R",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Luigi R",
+   "title": "Multi-year prevalence and macrolide resistance of Mycoplasma genitalium in clinical samples from a southern Italian hospital.",
+   "sorttitle": "multi year prevalence and macrolide resistance of mycoplasma genitalium in clinical samples from a southern italian hospital",
+   "volume": "40",
+   "issue": "4",
+   "pages": "893-895",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "8804297",
+   "issn": "0934-9723",
+   "essn": "1435-4373",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "256",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "33078220"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.1007/s10096-020-04068-3"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "10.1007/s10096-020-04068-3"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2020/08/05 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2020/10/09 00:00"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2020/10/21 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2021/08/14 06:00"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2020/10/20 06:25"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": "",
+   "fulljournalname": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+   "elocationid": "doi: 10.1007/s10096-020-04068-3",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2021/04/01 00:00",
+   "sortfirstauthor": "Angela A",
+   "vernaculartitle": ""
+  },
+  "34438892": {
+   "uid": "34438892",
+   "pubdate": "2021 Aug 18",
+   "epubdate": "2021 Aug 18",
+   "source": "Animals (Basel)",
+   "authors": [
+    {
+     "name": "Trotta A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Marinaro M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Sposato A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Galgano M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Ciccarelli S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Paci S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Corrente M",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Corrente M",
+   "title": "Antimicrobial Resistance in Loggerhead Sea Turtles (Caretta caretta): A Comparison between Clinical and Commensal Bacterial Isolates.",
+   "sorttitle": "antimicrobial resistance in loggerhead sea turtles caretta caretta a comparison between clinical and commensal bacterial isolates",
+   "volume": "11",
+   "issue": "8",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101635614",
+   "issn": "2076-2615",
+   "essn": "2076-2615",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "34438892"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC8388645"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC8388645;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.3390/ani11082435"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "ani11082435"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2021/07/22 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2021/08/13 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2021/08/16 00:00"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2021/08/27 01:02"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2021/08/28 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2021/08/28 06:01"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2021/08/18 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 69,
+   "fulljournalname": "Animals : an open access journal from MDPI",
+   "elocationid": "doi: 10.3390/ani11082435",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2021/08/18 00:00",
+   "sortfirstauthor": "Trotta A",
+   "vernaculartitle": ""
+  },
+  "34971501": {
+   "uid": "34971501",
+   "pubdate": "2021 Jul 27",
+   "epubdate": "2021 Jul 27",
+   "source": "Vet Ital",
+   "authors": [
+    {
+     "name": "Corrente M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Trotta A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Marinaro M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Cavalli A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Lovreglio P",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Cirilli M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Buonavoglia D",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Buonavoglia D",
+   "title": "Basic knowledge and misconceptions on antibiotic use: a comparative survey between Veterinary College and High School students in Bari (Italy).",
+   "sorttitle": "basic knowledge and misconceptions on antibiotic use a comparative survey between veterinary college and high school students in bari italy",
+   "volume": "57",
+   "issue": "2",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "0201543",
+   "issn": "0505-401X",
+   "essn": "1828-1427",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "34971501"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.12834/VetIt.2302.13130.1"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2020/06/10 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2020/08/26 00:00"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2021/12/31 15:51"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2022/01/01 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2022/01/05 06:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": "",
+   "fulljournalname": "Veterinaria italiana",
+   "elocationid": "doi: 10.12834/VetIt.2302.13130.1",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2021/07/27 00:00",
+   "sortfirstauthor": "Corrente M",
+   "vernaculartitle": ""
+  },
+  "36143934": {
+   "uid": "36143934",
+   "pubdate": "2022 Sep 11",
+   "epubdate": "2022 Sep 11",
+   "source": "Medicina (Kaunas)",
+   "authors": [
+    {
+     "name": "Nardulli P",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Hall GG",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Quarta A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Fruscio G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Laforgia M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Garrisi VM",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Ruggiero R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Scacco S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "De Vito D",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "De Vito D",
+   "title": "Antibiotic Abuse and Antimicrobial Resistance in Hospital Environment: A Retrospective Observational Comparative Study.",
+   "sorttitle": "antibiotic abuse and antimicrobial resistance in hospital environment a retrospective observational comparative study",
+   "volume": "58",
+   "issue": "9",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "9425208",
+   "issn": "1010-660X",
+   "essn": "1648-9144",
+   "pubtype": [
+    "Journal Article",
+    "Observational Study"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "36143934"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC9505554"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC9505554;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.3390/medicina58091257"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "medicina58091257"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2022/07/26 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2022/09/03 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2022/09/05 00:00"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2022/09/23 01:33"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2022/09/24 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2022/09/28 06:00"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2022/09/11 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 34,
+   "fulljournalname": "Medicina (Kaunas, Lithuania)",
+   "elocationid": "doi: 10.3390/medicina58091257",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2022/09/11 00:00",
+   "sortfirstauthor": "Nardulli P",
+   "vernaculartitle": ""
+  },
+  "35642247": {
+   "uid": "35642247",
+   "pubdate": "2023 Jan",
+   "epubdate": "2022 May 31",
+   "source": "Eur J Ophthalmol",
+   "authors": [
+    {
+     "name": "D'Oria F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Buonamassa R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Rizzo T",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Boscia F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Alessio G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Guerriero S",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Guerriero S",
+   "title": "Bacterial isolates and antimicrobial susceptibility pattern of ocular infection at a tertiary referral hospital in the South of Italy.",
+   "sorttitle": "bacterial isolates and antimicrobial susceptibility pattern of ocular infection at a tertiary referral hospital in the south of italy",
+   "volume": "33",
+   "issue": "1",
+   "pages": "370-376",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "9110772",
+   "issn": "1120-6721",
+   "essn": "1724-6016",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "256",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "35642247"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.1177/11206721221106139"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "pubmed",
+     "date": "2022/06/02 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2023/01/11 06:00"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2022/06/01 01:42"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": "",
+   "fulljournalname": "European journal of ophthalmology",
+   "elocationid": "doi: 10.1177/11206721221106139",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2023/01/01 00:00",
+   "sortfirstauthor": "D'Oria F",
+   "vernaculartitle": ""
+  },
+  "36838415": {
+   "uid": "36838415",
+   "pubdate": "2023 Feb 10",
+   "epubdate": "2023 Feb 10",
+   "source": "Microorganisms",
+   "authors": [
+    {
+     "name": "Mancini ME",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Alessiani A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Donatiello A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Didonna A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "D'Attoli L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Faleo S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Occhiochiuso G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Carella F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Di Taranto P",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pace L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Rondinone V",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Damato AM",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Coppola R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pedarra C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Goffredo E",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Goffredo E",
+   "title": "Systematic Survey of Vibrio spp. and Salmonella spp. in Bivalve Shellfish in Apulia Region (Italy): Prevalence and Antimicrobial Resistance.",
+   "sorttitle": "systematic survey of vibrio spp and salmonella spp in bivalve shellfish in apulia region italy prevalence and antimicrobial resistance",
+   "volume": "11",
+   "issue": "2",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101625893",
+   "issn": "2076-2607",
+   "essn": "2076-2607",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "36838415"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC9966029"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC9966029;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.3390/microorganisms11020450"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "microorganisms11020450"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2022/12/14 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2023/02/01 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2023/02/07 00:00"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2023/02/25 03:49"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2023/02/26 06:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2023/02/26 06:01"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2023/02/10 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 50,
+   "fulljournalname": "Microorganisms",
+   "elocationid": "doi: 10.3390/microorganisms11020450",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2023/02/10 00:00",
+   "sortfirstauthor": "Mancini ME",
+   "vernaculartitle": ""
+  },
+  "37764118": {
+   "uid": "37764118",
+   "pubdate": "2023 Sep 10",
+   "epubdate": "2023 Sep 10",
+   "source": "Microorganisms",
+   "authors": [
+    {
+     "name": "Alessiani A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "La Bella G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Donatiello A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Occhiochiuso G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Faleo S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Didonna A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "D'Attoli L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Selicato P",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pedarra C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "La Salandra G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Mancini ME",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Di Taranto P",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Goffredo E",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Goffredo E",
+   "title": "Occurrence of a New Variant of Salmonella Infantis Lacking Somatic Antigen.",
+   "sorttitle": "occurrence of a new variant of salmonella infantis lacking somatic antigen",
+   "volume": "11",
+   "issue": "9",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101625893",
+   "issn": "2076-2607",
+   "essn": "2076-2607",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "37764118"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC10538023"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC10538023;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.3390/microorganisms11092274"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "microorganisms11092274"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2023/08/08 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2023/09/04 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2023/09/08 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2023/09/28 06:44"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2023/09/28 06:43"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2023/09/28 01:30"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2023/09/10 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 33,
+   "fulljournalname": "Microorganisms",
+   "elocationid": "doi: 10.3390/microorganisms11092274",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2023/09/10 00:00",
+   "sortfirstauthor": "Alessiani A",
+   "vernaculartitle": ""
+  },
+  "38280719": {
+   "uid": "38280719",
+   "pubdate": "2024 Mar",
+   "epubdate": "2024 Jan 26",
+   "source": "J Glob Antimicrob Resist",
+   "authors": [
+    {
+     "name": "Loconsole D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Sallustio A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Sacco D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Santantonio M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Casulli D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Gatti D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Accogli M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Parisi A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Zagaria R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Colella V",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Centrone F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Chironna M",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Chironna M",
+   "title": "Genomic surveillance of carbapenem-resistant Klebsiella pneumoniae reveals a prolonged outbreak of extensively drug-resistant ST147 NDM-1 during the COVID-19 pandemic in the Apulia region (Southern Italy).",
+   "sorttitle": "genomic surveillance of carbapenem resistant klebsiella pneumoniae reveals a prolonged outbreak of extensively drug resistant st147 ndm 1 during the covid 19 pandemic in the apulia region southern italy",
+   "volume": "36",
+   "issue": "",
+   "pages": "260-266",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101622459",
+   "issn": "2213-7165",
+   "essn": "2213-7173",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "256",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "38280719"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.1016/j.jgar.2024.01.015"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "S2213-7165(24)00020-1"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2023/09/20 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2023/12/22 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2024/01/18 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2024/03/25 06:42"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2024/01/28 07:44"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2024/01/27 19:19"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": "",
+   "fulljournalname": "Journal of global antimicrobial resistance",
+   "elocationid": "doi: 10.1016/j.jgar.2024.01.015",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2024/03/01 00:00",
+   "sortfirstauthor": "Loconsole D",
+   "vernaculartitle": ""
+  },
+  "40005636": {
+   "uid": "40005636",
+   "pubdate": "2025 Jan 25",
+   "epubdate": "2025 Jan 25",
+   "source": "Microorganisms",
+   "authors": [
+    {
+     "name": "Di Taranto P",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Petruzzi F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Normanno G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pedarra C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Occhiochiuso G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Faleo S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Didonna A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Galante D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pace L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Rondinone V",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Trisolini C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Del Sambro L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Beverelli M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Catanzariti R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Caruso M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Palazzo L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Di Castri A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Parisi A",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Parisi A",
+   "title": "Prevalence and Antimicrobial Resistance of Salmonella Strains Isolated from Chicken Samples in Southern Italy.",
+   "sorttitle": "prevalence and antimicrobial resistance of salmonella strains isolated from chicken samples in southern italy",
+   "volume": "13",
+   "issue": "2",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101625893",
+   "issn": "2076-2607",
+   "essn": "2076-2607",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "40005636"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC11858494"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC11858494;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.3390/microorganisms13020270"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "microorganisms13020270"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2024/12/19 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2025/01/15 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2025/01/23 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2025/02/26 06:29"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2025/02/26 06:28"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2025/02/26 01:23"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2025/01/25 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 39,
+   "fulljournalname": "Microorganisms",
+   "elocationid": "doi: 10.3390/microorganisms13020270",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2025/01/25 00:00",
+   "sortfirstauthor": "Di Taranto P",
+   "vernaculartitle": ""
+  },
+  "40149063": {
+   "uid": "40149063",
+   "pubdate": "2025 Mar 1",
+   "epubdate": "2025 Mar 1",
+   "source": "Antibiotics (Basel)",
+   "authors": [
+    {
+     "name": "Lai O",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Tinelli A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Soloperto S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Crescenzo G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Galante D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Calarco A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Tribuzio M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Manzulli V",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Caioni G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Zizzadoro C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Damiano A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Camarda A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pugliese N",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Pugliese N",
+   "title": "Observed Prevalence and Characterization of Fluoroquinolone-Resistant and Multidrug-Resistant Bacteria in Loggerhead Sea Turtles (Caretta caretta) from the Adriatic Sea.",
+   "sorttitle": "observed prevalence and characterization of fluoroquinolone resistant and multidrug resistant bacteria in loggerhead sea turtles caretta caretta from the adriatic sea",
+   "volume": "14",
+   "issue": "3",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101637404",
+   "issn": "2079-6382",
+   "essn": "2079-6382",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "40149063"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC11939805"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC11939805;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.3390/antibiotics14030252"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "antibiotics14030252"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2025/01/13 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2025/02/21 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2025/02/25 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2025/03/28 06:26"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2025/03/28 06:25"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2025/03/28 01:03"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2025/03/01 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 52,
+   "fulljournalname": "Antibiotics (Basel, Switzerland)",
+   "elocationid": "doi: 10.3390/antibiotics14030252",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2025/03/01 00:00",
+   "sortfirstauthor": "Lai O",
+   "vernaculartitle": ""
+  },
+  "40269796": {
+   "uid": "40269796",
+   "pubdate": "2025 Apr 23",
+   "epubdate": "2025 Apr 23",
+   "source": "BMC Pregnancy Childbirth",
+   "authors": [
+    {
+     "name": "Servadio M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Belleudi V",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Poggi FR",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Perna S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Addis A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Davoli M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Trotta F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Fortinguerra F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "MoM-Net Group",
+     "authtype": "CollectiveName",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Fortinguerra F",
+   "title": "Real-world antibiotic utilization during pregnancy in Italy: a multiregional retrospective population-based study.",
+   "sorttitle": "real world antibiotic utilization during pregnancy in italy a multiregional retrospective population based study",
+   "volume": "25",
+   "issue": "1",
+   "pages": "480",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "100967799",
+   "issn": "",
+   "essn": "1471-2393",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "40269796"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC12020250"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC12020250;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.1186/s12884-025-07605-0"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "10.1186/s12884-025-07605-0"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2024/09/09 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2025/04/14 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2025/04/24 12:30"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2025/04/24 06:26"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2025/04/24 03:39"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2025/04/23 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 38,
+   "fulljournalname": "BMC pregnancy and childbirth",
+   "elocationid": "doi: 10.1186/s12884-025-07605-0",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2025/04/23 00:00",
+   "sortfirstauthor": "Servadio M",
+   "vernaculartitle": ""
+  },
+  "40334841": {
+   "uid": "40334841",
+   "pubdate": "2025 Jun",
+   "epubdate": "2025 May 5",
+   "source": "J Glob Antimicrob Resist",
+   "authors": [
+    {
+     "name": "Valzano F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Beccia E",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "La Bella G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Marangi M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Arena F",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Arena F",
+   "title": "The Y58D mutation in rpsJ gene is correlated with tigecycline and eravacycline combined resistance in ST80 vancomycin-resistant Enterococcus faecium isolates.",
+   "sorttitle": "y58d mutation in rpsj gene is correlated with tigecycline and eravacycline combined resistance in st80 vancomycin resistant enterococcus faecium isolates",
+   "volume": "43",
+   "issue": "",
+   "pages": "242-247",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101622459",
+   "issn": "2213-7165",
+   "essn": "2213-7173",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "256",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "40334841"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.1016/j.jgar.2025.04.028"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "S2213-7165(25)00104-3"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2025/03/07 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2025/04/28 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2025/04/30 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2025/06/28 00:39"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2025/05/08 00:25"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2025/05/07 19:35"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": "",
+   "fulljournalname": "Journal of global antimicrobial resistance",
+   "elocationid": "doi: 10.1016/j.jgar.2025.04.028",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2025/06/01 00:00",
+   "sortfirstauthor": "Valzano F",
+   "vernaculartitle": ""
+  },
+  "40700322": {
+   "uid": "40700322",
+   "pubdate": "2025 Jul 2",
+   "epubdate": "2025 Jul 2",
+   "source": "Infect Dis Rep",
+   "authors": [
+    {
+     "name": "Guido M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Zizza A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Sedile R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Nuzzo M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Lupo LI",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Grima P",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Grima P",
+   "title": "Carbapenem-Resistant Gram-Negative Bacteria in Hospitalized Patients: A Five-Year Surveillance in Italy.",
+   "sorttitle": "carbapenem resistant gram negative bacteria in hospitalized patients a five year surveillance in italy",
+   "volume": "17",
+   "issue": "4",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101537203",
+   "issn": "2036-7430",
+   "essn": "2036-7449",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "40700322"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC12285967"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC12285967;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.3390/idr17040076"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "idr17040076"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2025/04/28 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2025/06/13 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2025/06/27 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2025/07/23 18:29"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2025/07/23 18:28"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2025/07/23 13:05"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2025/07/02 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 36,
+   "fulljournalname": "Infectious disease reports",
+   "elocationid": "doi: 10.3390/idr17040076",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2025/07/02 00:00",
+   "sortfirstauthor": "Guido M",
+   "vernaculartitle": ""
+  },
+  "40725564": {
+   "uid": "40725564",
+   "pubdate": "2025 Jul 9",
+   "epubdate": "2025 Jul 9",
+   "source": "J Clin Med",
+   "authors": [
+    {
+     "name": "Cicinelli E",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Di Gennaro F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Gesario A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Iachetti Amati D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Guido G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Frallonardo L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Saracino A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Vimercati A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Cicinelli R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Nicolì P",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Vitagliano A",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Vitagliano A",
+   "title": "Increasing Antimicrobial Resistance to First-Line Therapies in Chronic Endometritis: A 2020-2024 Cross-Sectional Study.",
+   "sorttitle": "increasing antimicrobial resistance to first line therapies in chronic endometritis a 2020 2024 cross sectional study",
+   "volume": "14",
+   "issue": "14",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101606588",
+   "issn": "2077-0383",
+   "essn": "2077-0383",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "40725564"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC12294908"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC12294908;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.3390/jcm14144873"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "jcm14144873"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2025/05/24 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2025/07/05 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2025/07/07 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2025/07/29 06:31"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2025/07/29 06:30"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2025/07/29 01:17"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2025/07/09 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 29,
+   "fulljournalname": "Journal of clinical medicine",
+   "elocationid": "doi: 10.3390/jcm14144873",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2025/07/09 00:00",
+   "sortfirstauthor": "Cicinelli E",
+   "vernaculartitle": ""
+  },
+  "41057669": {
+   "uid": "41057669",
+   "pubdate": "2025 Dec",
+   "epubdate": "2025 Oct 8",
+   "source": "Infect Dis Ther",
+   "authors": [
+    {
+     "name": "Centrone F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Accogli M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Melilli R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Marziani A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Orlando VA",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Casulli D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Scolamacchia V",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Netti N",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Sacco D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Sallustio A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Chironna M",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Chironna M",
+   "title": "Prevalence of Macrolide-Resistant Mycoplasma pneumoniae Infections After the COVID-19 Pandemic in Southern Italy, 2023-2025.",
+   "sorttitle": "prevalence of macrolide resistant mycoplasma pneumoniae infections after the covid 19 pandemic in southern italy 2023 2025",
+   "volume": "14",
+   "issue": "12",
+   "pages": "2733-2741",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101634499",
+   "issn": "2193-8229",
+   "essn": "2193-6382",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed",
+   "pubstatus": "256",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "41057669"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC12602751"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC12602751;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.1007/s40121-025-01244-w"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "10.1007/s40121-025-01244-w"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2025/08/13 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2025/09/29 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2025/10/08 00:30"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2025/10/08 00:29"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2025/10/07 23:44"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2025/10/08 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 17,
+   "fulljournalname": "Infectious diseases and therapy",
+   "elocationid": "doi: 10.1007/s40121-025-01244-w",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2025/12/01 00:00",
+   "sortfirstauthor": "Centrone F",
+   "vernaculartitle": ""
+  },
+  "41233552": {
+   "uid": "41233552",
+   "pubdate": "2025 Nov 13",
+   "epubdate": "2025 Nov 13",
+   "source": "Sci Rep",
+   "authors": [
+    {
+     "name": "Triggiano F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Caggiano G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Capozzi L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Castellana S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Diella G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Furio A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Cantalice MA",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Manicone AL",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Savino AF",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Mosca A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "De Carlo C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Sparapano E",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Dalfino L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Saracino A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Di Gennaro F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Principi MB",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Parisi A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Montagna MT",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Tafuri S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "De Giglio O",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "De Giglio O",
+   "title": "Clinical and environmental investigation of six cases of Chryseobacterium arthrosphaerae infections in a Southern Italian hospital.",
+   "sorttitle": "clinical and environmental investigation of six cases of chryseobacterium arthrosphaerae infections in a southern italian hospital",
+   "volume": "15",
+   "issue": "1",
+   "pages": "39814",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101563288",
+   "issn": "",
+   "essn": "2045-2322",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "41233552"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC12615676"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC12615676;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.1038/s41598-025-24632-1"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "10.1038/s41598-025-24632-1"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2025/05/15 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2025/10/14 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2025/11/14 00:29"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2025/11/14 00:28"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2025/11/13 23:31"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2025/11/13 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 43,
+   "fulljournalname": "Scientific reports",
+   "elocationid": "doi: 10.1038/s41598-025-24632-1",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2025/11/13 00:00",
+   "sortfirstauthor": "Triggiano F",
+   "vernaculartitle": ""
+  },
+  "41835046": {
+   "uid": "41835046",
+   "pubdate": "2025 Nov",
+   "epubdate": "2025 Oct 11",
+   "source": "Adv Pharm Bull",
+   "authors": [
+    {
+     "name": "Ruga S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Petti R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Masullo M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Castagna F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Bava R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Armenise M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Labbate E",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Lombardi C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Giordano A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Quintiliani M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Alfano L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Langella E",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Liguori G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Lombardi R",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Lombardi R",
+   "title": "The Phenomenon of Antimicrobial Resistance in Southern Italy: An Overview of the Current Situation.",
+   "sorttitle": "phenomenon of antimicrobial resistance in southern italy an overview of the current situation",
+   "volume": "15",
+   "issue": "4",
+   "pages": "871-882",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101578021",
+   "issn": "2228-5881",
+   "essn": "2251-7308",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed",
+   "pubstatus": "258",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "41835046"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC12980278"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC12980278;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.34172/apb.025.45467"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2025/04/07 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2025/08/28 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2025/09/25 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2026/03/16 06:32"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2026/03/16 06:31"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2026/03/16 05:55"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2025/10/11 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 43,
+   "fulljournalname": "Advanced pharmaceutical bulletin",
+   "elocationid": "doi: 10.34172/apb.025.45467",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2025/10/11 00:00",
+   "sortfirstauthor": "Ruga S",
+   "vernaculartitle": ""
+  },
+  "41753794": {
+   "uid": "41753794",
+   "pubdate": "2026 Feb 22",
+   "epubdate": "2026 Feb 22",
+   "source": "Microorganisms",
+   "authors": [
+    {
+     "name": "Nobili G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Cocomazzi A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Basanisi MG",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Damato AM",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Coppola R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Cariglia MG",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Franconieri I",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Stallone A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Notarangelo M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Scirocco T",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Bortolaia V",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "La Salandra G",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "La Salandra G",
+   "title": "Occurrence and Genomic Characterization of ESBL-, AmpC-, and Carbapenemase-Producing Escherichia coli and Klebsiella pneumoniae Isolated from Surface Water in Southern Italy, 2023-2024.",
+   "sorttitle": "occurrence and genomic characterization of esbl ampc and carbapenemase producing escherichia coli and klebsiella pneumoniae isolated from surface water in southern italy 2023 2024",
+   "volume": "14",
+   "issue": "2",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101625893",
+   "issn": "2076-2607",
+   "essn": "2076-2607",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "41753794"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC12943021"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC12943021;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.3390/microorganisms14020508"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "microorganisms14020508"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2026/01/12 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2026/02/11 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2026/02/13 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2026/02/27 06:32"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2026/02/27 06:31"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2026/02/27 01:16"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2026/02/22 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 58,
+   "fulljournalname": "Microorganisms",
+   "elocationid": "doi: 10.3390/microorganisms14020508",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2026/02/22 00:00",
+   "sortfirstauthor": "Nobili G",
+   "vernaculartitle": ""
+  },
+  "41892451": {
+   "uid": "41892451",
+   "pubdate": "2026 Mar 12",
+   "epubdate": "2026 Mar 12",
+   "source": "Antibiotics (Basel)",
+   "authors": [
+    {
+     "name": "Altavilla S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Di Pietro N",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Loconsole D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Di Gennaro F",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Di Gennaro F",
+   "title": "Screening and Cohorting of CRE Patients: The Strategic Role of Bed Management in a Monocentric Pre-Post Observational Study.",
+   "sorttitle": "screening and cohorting of cre patients the strategic role of bed management in a monocentric pre post observational study",
+   "volume": "15",
+   "issue": "3",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101637404",
+   "issn": "2079-6382",
+   "essn": "2079-6382",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "41892451"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC13024421"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC13024421;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.3390/antibiotics15030290"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "antibiotics15030290"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2026/01/28 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2026/03/04 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2026/03/09 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2026/03/27 17:39"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2026/03/27 17:38"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2026/03/27 11:15"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2026/03/12 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 25,
+   "fulljournalname": "Antibiotics (Basel, Switzerland)",
+   "elocationid": "doi: 10.3390/antibiotics15030290",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2026/03/12 00:00",
+   "sortfirstauthor": "Altavilla S",
+   "vernaculartitle": ""
+  },
+  "42020611": {
+   "uid": "42020611",
+   "pubdate": "2026 Apr 22",
+   "epubdate": "2026 Apr 22",
+   "source": "Sci Rep",
+   "authors": [
+    {
+     "name": "Pugliese N",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Intermite C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Samarelli R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Manzulli V",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Castellana S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Liuzzi C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Lai O",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Galante D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Lombardi R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Bianco A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Prioletti M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Salierno D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Capozzi L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Giordano V",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Crescenzo G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Circella E",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Parisi A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Camarda A",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Camarda A",
+   "title": "Commensal and opportunistic bacteria resistant to fourth-generation cephalosporins or fluoroquinolones isolated from yellow-legged gulls (Larus michahellis) settled in Taranto, Southern Italy.",
+   "sorttitle": "commensal and opportunistic bacteria resistant to fourth generation cephalosporins or fluoroquinolones isolated from yellow legged gulls larus michahellis settled in taranto southern italy",
+   "volume": "16",
+   "issue": "1",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101563288",
+   "issn": "",
+   "essn": "2045-2322",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "42020611"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC13272952"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC13272952;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.1038/s41598-026-49997-9"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "10.1038/s41598-026-49997-9"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2025/10/22 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2026/04/17 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2026/06/28 06:35"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2026/04/23 00:31"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2026/04/22 23:36"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2026/04/22 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 64,
+   "fulljournalname": "Scientific reports",
+   "elocationid": "doi: 10.1038/s41598-026-49997-9",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2026/04/22 00:00",
+   "sortfirstauthor": "Pugliese N",
+   "vernaculartitle": ""
+  },
+  "42174086": {
+   "uid": "42174086",
+   "pubdate": "2026 May 22",
+   "epubdate": "2026 May 22",
+   "source": "Sci Rep",
+   "authors": [
+    {
+     "name": "Sallustio A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Accogli M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Sacco D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Santantonio M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Colella V",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Di Palo DM",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Rutigliano S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Punzi G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Centrone F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Chironna M",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Chironna M",
+   "title": "Emergence of NDM-5-producing ST405 and NDM-1-producing ST10 Escherichia coli in bloodstream infections in Apulia, Italy, 2023-2025.",
+   "sorttitle": "emergence of ndm 5 producing st405 and ndm 1 producing st10 escherichia coli in bloodstream infections in apulia italy 2023 2025",
+   "volume": "16",
+   "issue": "1",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101563288",
+   "issn": "",
+   "essn": "2045-2322",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "42174086"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC13415540"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC13415540;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.1038/s41598-026-54754-z"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "10.1038/s41598-026-54754-z"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2026/02/16 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2026/05/15 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2026/07/29 18:38"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2026/05/23 05:38"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2026/05/22 23:20"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2026/05/22 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 32,
+   "fulljournalname": "Scientific reports",
+   "elocationid": "doi: 10.1038/s41598-026-54754-z",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2026/05/22 00:00",
+   "sortfirstauthor": "Sallustio A",
+   "vernaculartitle": ""
+  },
+  "42192651": {
+   "uid": "42192651",
+   "pubdate": "2026 Apr 24",
+   "epubdate": "2026 Apr 24",
+   "source": "Antibiotics (Basel)",
+   "authors": [
+    {
+     "name": "Bugarim T",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Bachmann VM",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Corrente M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Sasso R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Madio A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Dibari M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Martella V",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Greco G",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Greco G",
+   "title": "Exploring Antibiotic Resistance Patterns in Isolates from Domestic Animals in Southern Italy.",
+   "sorttitle": "exploring antibiotic resistance patterns in isolates from domestic animals in southern italy",
+   "volume": "15",
+   "issue": "5",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101637404",
+   "issn": "2079-6382",
+   "essn": "2079-6382",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "42192651"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC13203892"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC13203892;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.3390/antibiotics15050429"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "antibiotics15050429"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2026/03/26 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2026/04/20 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2026/04/22 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2026/05/27 06:37"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2026/05/27 06:36"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2026/05/27 01:03"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2026/04/24 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 48,
+   "fulljournalname": "Antibiotics (Basel, Switzerland)",
+   "elocationid": "doi: 10.3390/antibiotics15050429",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2026/04/24 00:00",
+   "sortfirstauthor": "Bugarim T",
+   "vernaculartitle": ""
+  },
+  "42354886": {
+   "uid": "42354886",
+   "pubdate": "2026 Jun 3",
+   "epubdate": "2026 Jun 3",
+   "source": "Microorganisms",
+   "authors": [
+    {
+     "name": "Altavilla S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Loconsole D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Di Pietro N",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Memmola R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Sivo D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Di Gennaro F",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Di Gennaro F",
+   "title": "Risk-Based Pre-Admission Screening for Carbapenem-Resistant Enterobacterales (CRE): A Patient-Level Observational Study in a High-Endemic European Setting.",
+   "sorttitle": "risk based pre admission screening for carbapenem resistant enterobacterales cre a patient level observational study in a high endemic european setting",
+   "volume": "14",
+   "issue": "6",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101625893",
+   "issn": "2076-2607",
+   "essn": "2076-2607",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "42354886"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC13302826"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC13302826;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.3390/microorganisms14061262"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "microorganisms14061262"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2026/03/31 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2026/05/21 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2026/05/29 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2026/06/26 10:11"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2026/06/26 10:10"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2026/06/26 01:12"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2026/06/03 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 31,
+   "fulljournalname": "Microorganisms",
+   "elocationid": "doi: 10.3390/microorganisms14061262",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2026/06/03 00:00",
+   "sortfirstauthor": "Altavilla S",
+   "vernaculartitle": ""
+  },
+  "42510115": {
+   "uid": "42510115",
+   "pubdate": "2026 Jul 18",
+   "epubdate": "2026 Jul 18",
+   "source": "Diagnostics (Basel)",
+   "authors": [
+    {
+     "name": "Lupo L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Serafini I",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Chirizzi D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Spedicato A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Bianco G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pisanò D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Orsi MR",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Moschettini G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Marullo M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Sorge A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Bruno R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Panico C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Arnesano S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Simone A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Corciulo L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pico A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pagano C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Fulceri L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Apruzzi G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Filippis A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Galdiero M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Broccolo F",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Broccolo F",
+   "title": "Multiplex-PCR Identification of Positive Blood Cultures: Pathogen Epidemiology, Resistance Determinants, and the Economic and Interpretive Cost of Qualitative Rapid Diagnosis.",
+   "sorttitle": "multiplex pcr identification of positive blood cultures pathogen epidemiology resistance determinants and the economic and interpretive cost of qualitative rapid diagnosis",
+   "volume": "16",
+   "issue": "14",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101658402",
+   "issn": "2075-4418",
+   "essn": "2075-4418",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "42510115"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC13408814"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC13408814;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.3390/diagnostics16142252"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "diagnostics16142252"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2026/06/15 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2026/07/10 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2026/07/16 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2026/07/28 06:38"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2026/07/28 06:37"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2026/07/28 01:01"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2026/07/18 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 24,
+   "fulljournalname": "Diagnostics (Basel, Switzerland)",
+   "elocationid": "doi: 10.3390/diagnostics16142252",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2026/07/18 00:00",
+   "sortfirstauthor": "Lupo L",
+   "vernaculartitle": ""
+  },
+  "42514079": {
+   "uid": "42514079",
+   "pubdate": "2026 Jul 19",
+   "epubdate": "2026 Jul 19",
+   "source": "Microorganisms",
+   "authors": [
+    {
+     "name": "Chirizzi D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Spedicato A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Bianco G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Lupo L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Serafini I",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pisanò D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Orsi MR",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Moschettini G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Sorge A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Bruno R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Panico C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Arnesano S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Simone A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Corciulo L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pico A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pagano C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Fulceri L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Apruzzi G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "De Filippis A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Galdiero M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Broccolo F",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Broccolo F",
+   "title": "Twenty-Two Months of Syndromic Multiplex-PCR Testing for Acute Infections in a Southern Italian Hospital: Pathogen Epidemiology, Diagnostic Appropriateness and the Cost of Negative Results.",
+   "sorttitle": "twenty two months of syndromic multiplex pcr testing for acute infections in a southern italian hospital pathogen epidemiology diagnostic appropriateness and the cost of negative results",
+   "volume": "14",
+   "issue": "7",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101625893",
+   "issn": "2076-2607",
+   "essn": "2076-2607",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "42514079"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC13413509"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC13413509;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.3390/microorganisms14071574"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "microorganisms14071574"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2026/06/12 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2026/07/15 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2026/07/17 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2026/07/28 06:37"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2026/07/28 06:36"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2026/07/28 01:17"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2026/07/19 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 21,
+   "fulljournalname": "Microorganisms",
+   "elocationid": "doi: 10.3390/microorganisms14071574",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2026/07/19 00:00",
+   "sortfirstauthor": "Chirizzi D",
+   "vernaculartitle": ""
+  },
+  "43050585": {
+   "uid": "43050585",
+   "pubdate": "2026 Nov 17",
+   "epubdate": "2026 Nov 17",
+   "source": "J Pediatr Hematol Oncol",
+   "authors": [
+    {
+     "name": "De Leonardis F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Rando R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Ronga L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Koronica R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Novielli C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Muggeo P",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Erroi V",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Castagnola E",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Chironna M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Santoro N",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Santoro N",
+   "title": "Epidemiology of Bloodstream Infections and Impact of Antibiotic Prophylaxis: A 10-Year Experience at a Tertiary Care Pediatric Oncology-Hematology Center in Italy.",
+   "sorttitle": "epidemiology of bloodstream infections and impact of antibiotic prophylaxis a 10 year experience at a tertiary care pediatric oncology hematology center in italy",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "9505928",
+   "issn": "1077-4114",
+   "essn": "1536-3678",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - as supplied by publisher",
+   "pubstatus": "10",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "43050585"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.1097/MPH.0000000000003323"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "00043426-990000000-00839"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2026/03/23 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2026/10/26 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2026/11/18 17:32"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2026/11/18 17:32"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2026/11/18 14:33"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": "",
+   "fulljournalname": "Journal of pediatric hematology/oncology",
+   "elocationid": "doi: 10.1097/MPH.0000000000003323",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2026/11/17 00:00",
+   "sortfirstauthor": "De Leonardis F",
+   "vernaculartitle": ""
+  }
+ }
+}

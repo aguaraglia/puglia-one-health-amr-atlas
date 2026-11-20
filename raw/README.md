@@ -1,0 +1,3 @@
+# Materiali di curatela
+
+Questa cartella contiene gli input usati per ricostruire il catalogo e i layer: decisioni di inclusione (347 righe: 41 incluse, 26 dubbie, 280 escluse), esummary PubMed, lo stato dei testi integrali, il disclaimer EpiCentro consultato per la licenza AR-ISS e le risposte Nominatim delle strutture nominate (AOU Consorziale Policlinico di Bari e Ospedale SS. Annunziata di Taranto sono punti; P.O. Vito Fazzi, Policlinico Riuniti di Foggia e RSA Fondazione San Raffaele di Taranto non hanno un oggetto ospedaliero). Non contiene i materiali esclusi del portale regionale, di PugliaSalute, dell'OER, di dati.puglia.it, di ARPA Puglia, del sito del Policlinico di Bari, del sito dell'IZS di Puglia e Basilicata né del rapporto OsMed.

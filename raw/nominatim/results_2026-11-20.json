@@ -1,0 +1,402 @@
+{
+ "Policlinico di Bari": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 56491987,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 30276944,
+    "lat": "41.1116427",
+    "lon": "16.8594522",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.1507975276546128,
+    "addresstype": "amenity",
+    "name": "Policlinico di Bari",
+    "display_name": "Policlinico di Bari, 11, Piazza Giulio Cesare, Picone, Bari, Puglia, 70124, Italia",
+    "boundingbox": [
+     "41.1085477",
+     "41.1147411",
+     "16.8556488",
+     "16.8624307"
+    ]
+   },
+   {
+    "place_id": 56346048,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 629321942,
+    "lat": "41.1129226",
+    "lon": "16.8580971",
+    "category": "aeroway",
+    "type": "helipad",
+    "place_rank": 30,
+    "importance": 7.187228198667914e-05,
+    "addresstype": "aeroway",
+    "name": "Policlinico di Bari",
+    "display_name": "Policlinico di Bari, Pronto soccorso, Picone, Bari, Puglia, 70125, Italia",
+    "boundingbox": [
+     "41.1128134",
+     "41.1130294",
+     "16.8579539",
+     "16.8582395"
+    ]
+   }
+  ]
+ },
+ "Ospedale Policlinico Bari Piazza Giulio Cesare": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 56751568,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 30276944,
+    "lat": "41.1116427",
+    "lon": "16.8594522",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.1507975276546128,
+    "addresstype": "amenity",
+    "name": "Policlinico di Bari",
+    "display_name": "Policlinico di Bari, 11, Piazza Giulio Cesare, Picone, Bari, Puglia, 70124, Italia",
+    "boundingbox": [
+     "41.1085477",
+     "41.1147411",
+     "16.8556488",
+     "16.8624307"
+    ]
+   }
+  ]
+ },
+ "Ospedale Santissima Annunziata Taranto": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 56615159,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5218691574,
+    "lat": "40.4650658",
+    "lon": "17.2480549",
+    "category": "emergency",
+    "type": "emergency_ward_entrance",
+    "place_rank": 30,
+    "importance": 2.8699931334355954e-05,
+    "addresstype": "emergency",
+    "name": "Pronto Soccorso Ospedale Santissima Annunziata",
+    "display_name": "Pronto Soccorso Ospedale Santissima Annunziata, Via Francesco Bruno, Italia, Tre Carrare, Borgo Umbertino, Taranto, Puglia, 74123, Italia",
+    "boundingbox": [
+     "40.4650158",
+     "40.4651158",
+     "17.2480049",
+     "17.2481049"
+    ]
+   }
+  ]
+ },
+ "Ospedale Vito Fazzi Lecce": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 56561676,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 321457049,
+    "lat": "40.3256515",
+    "lon": "18.1639792",
+    "category": "highway",
+    "type": "motorway_junction",
+    "place_rank": 30,
+    "importance": 5.732433051036877e-05,
+    "addresstype": "highway",
+    "name": "Ospedale Vito Fazzi",
+    "display_name": "Ospedale Vito Fazzi, Tangenziale Ovest, San Cesario di Lecce, Lecce, Puglia, 73016, Italia",
+    "boundingbox": [
+     "40.3256015",
+     "40.3257015",
+     "18.1639292",
+     "18.1640292"
+    ]
+   },
+   {
+    "place_id": 56772464,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 344982000,
+    "lat": "40.3260262",
+    "lon": "18.1617936",
+    "category": "highway",
+    "type": "motorway_junction",
+    "place_rank": 30,
+    "importance": 5.732433051036877e-05,
+    "addresstype": "highway",
+    "name": "Ospedale Vito Fazzi",
+    "display_name": "Ospedale Vito Fazzi, Tangenziale Ovest, Lequile, Lecce, Puglia, 73016, Italia",
+    "boundingbox": [
+     "40.3259762",
+     "40.3260762",
+     "18.1617436",
+     "18.1618436"
+    ]
+   }
+  ]
+ },
+ "Policlinico Riuniti Foggia": {
+  "status": 200,
+  "results": []
+ },
+ "Ospedali Riuniti Foggia": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 80772613,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7239724685,
+    "lat": "41.4583299",
+    "lon": "15.5269844",
+    "category": "amenity",
+    "type": "bus_station",
+    "place_rank": 30,
+    "importance": 6.52346074616162e-05,
+    "addresstype": "amenity",
+    "name": "Ospedali Riuniti",
+    "display_name": "Ospedali Riuniti, Via Martiri di Via Fani, Foggia, Puglia, 71122, Italia",
+    "boundingbox": [
+     "41.4582799",
+     "41.4583799",
+     "15.5269344",
+     "15.5270344"
+    ]
+   },
+   {
+    "place_id": 80902838,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1839803521,
+    "lat": "41.4566387",
+    "lon": "15.5230631",
+    "category": "amenity",
+    "type": "bus_station",
+    "place_rank": 30,
+    "importance": 6.52346074616162e-05,
+    "addresstype": "amenity",
+    "name": "Ospedali Riuniti",
+    "display_name": "Ospedali Riuniti, Viale Luigi Pinto, Foggia, Puglia, 71122, Italia",
+    "boundingbox": [
+     "41.4565887",
+     "41.4566887",
+     "15.5230131",
+     "15.5231131"
+    ]
+   }
+  ]
+ },
+ "Fondazione San Raffaele Cittadella della Carità Taranto": {
+  "status": 200,
+  "results": []
+ },
+ "{\"q\": \"Presidio Ospedaliero Vito Fazzi Lecce\"}": {
+  "status": 200,
+  "results": []
+ },
+ "{\"amenity\": \"hospital\", \"city\": \"Lecce\"}": {
+  "status": 200,
+  "results": []
+ },
+ "{\"q\": \"Policlinico Riuniti Foggia Viale Luigi Pinto\"}": {
+  "status": 200,
+  "results": []
+ },
+ "{\"amenity\": \"hospital\", \"city\": \"Foggia\"}": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 80521584,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 13301859048,
+    "lat": "41.3634904",
+    "lon": "15.3125945",
+    "category": "tourism",
+    "type": "hostel",
+    "place_rank": 30,
+    "importance": 5.632944228270416e-05,
+    "addresstype": "tourism",
+    "name": "Ostello Hospital del Cammino",
+    "display_name": "Ostello Hospital del Cammino, Via Giacomo Matteotti, Troia, Foggia, Puglia, 71029, Italia",
+    "boundingbox": [
+     "41.3634404",
+     "41.3635404",
+     "15.3125445",
+     "15.3126445"
+    ]
+   }
+  ]
+ },
+ "{\"amenity\": \"hospital\", \"city\": \"Taranto\"}": {
+  "status": 200,
+  "results": []
+ },
+ "{\"q\": \"Ospedale SS. Annunziata, Via Francesco Bruno, Taranto\"}": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 56717231,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 123272846,
+    "lat": "40.4644182",
+    "lon": "17.2484741",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 2.8699931334355954e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale SS. Annunziata",
+    "display_name": "Ospedale SS. Annunziata, 1, Via Francesco Bruno, Italia, Tre Carrare, Borgo Umbertino, Taranto, Puglia, 74123, Italia",
+    "boundingbox": [
+     "40.4631433",
+     "40.4657432",
+     "17.2471625",
+     "17.2499962"
+    ]
+   }
+  ]
+ },
+ "Ospedale Vito Fazzi": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 56561676,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 321457049,
+    "lat": "40.3256515",
+    "lon": "18.1639792",
+    "category": "highway",
+    "type": "motorway_junction",
+    "place_rank": 30,
+    "importance": 5.732433051036877e-05,
+    "addresstype": "highway",
+    "name": "Ospedale Vito Fazzi",
+    "display_name": "Ospedale Vito Fazzi, Tangenziale Ovest, San Cesario di Lecce, Lecce, Puglia, 73016, Italia",
+    "boundingbox": [
+     "40.3256015",
+     "40.3257015",
+     "18.1639292",
+     "18.1640292"
+    ]
+   },
+   {
+    "place_id": 56772464,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 344982000,
+    "lat": "40.3260262",
+    "lon": "18.1617936",
+    "category": "highway",
+    "type": "motorway_junction",
+    "place_rank": 30,
+    "importance": 5.732433051036877e-05,
+    "addresstype": "highway",
+    "name": "Ospedale Vito Fazzi",
+    "display_name": "Ospedale Vito Fazzi, Tangenziale Ovest, Lequile, Lecce, Puglia, 73016, Italia",
+    "boundingbox": [
+     "40.3259762",
+     "40.3260762",
+     "18.1617436",
+     "18.1618436"
+    ]
+   }
+  ]
+ },
+ "Vito Fazzi, Piazza Filippo Muratore, Lecce": {
+  "status": 200,
+  "results": []
+ },
+ "Policlinico Riuniti": {
+  "status": 200,
+  "results": []
+ },
+ "Ospedale Policlinico Riuniti di Foggia": {
+  "status": 200,
+  "results": []
+ },
+ "Azienda Ospedaliero-Universitaria Policlinico Foggia": {
+  "status": 200,
+  "results": []
+ },
+ "hospital Lecce": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 56739662,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 657902596,
+    "lat": "40.3474708",
+    "lon": "18.1778009",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.734645609211899e-05,
+    "addresstype": "amenity",
+    "name": "ASL Lecce",
+    "display_name": "ASL Lecce, Viale Don Minzoni, Lecce, Puglia, 73100, Italia",
+    "boundingbox": [
+     "40.3472940",
+     "40.3477299",
+     "18.1774365",
+     "18.1781833"
+    ]
+   },
+   {
+    "place_id": 56734187,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 318420138,
+    "lat": "40.1203486",
+    "lon": "18.2931570",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 5.858319981684623e-05,
+    "addresstype": "amenity",
+    "name": "ASL Lecce Distretto Socio Sanitario di Maglie",
+    "display_name": "ASL Lecce Distretto Socio Sanitario di Maglie, Via Pasquale De Lorentis, Maglie, Lecce, Puglia, 73024, Italia",
+    "boundingbox": [
+     "40.1199081",
+     "40.1208871",
+     "18.2924984",
+     "18.2938122"
+    ]
+   },
+   {
+    "place_id": 56920402,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 13795901290,
+    "lat": "40.0591763",
+    "lon": "17.9926871",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 2.846341649495716e-05,
+    "addresstype": "amenity",
+    "name": "ASL Lecce (Gallipoli)",
+    "display_name": "ASL Lecce (Gallipoli), Lungomare Guglielmo Marconi, Gallipoli, Lecce, Puglia, 73014, Italia",
+    "boundingbox": [
+     "40.0591263",
+     "40.0592263",
+     "17.9926371",
+     "17.9927371"
+    ]
+   }
+  ]
+ }
+}
